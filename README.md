@@ -1,4 +1,4 @@
-![MasterHead](https://d2gbo5uoddvg5.cloudfront.net/images/Logo_aws.gif)
+![MasterHead](https://blogs.halodoc.io/content/images/2021/03/Asset-34@2x-8.png)
 <h1 align="center">Hi 👋, I'm DINESHKUMAR</h1>
 <h3 align="center">A dedicated cloud computing professional with a passion.</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding Freak">
